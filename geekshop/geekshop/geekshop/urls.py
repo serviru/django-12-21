@@ -21,5 +21,6 @@ urlpatterns = [
     path('', main),
     path('products', products),
     path('contacts', contact),
+   ''' path()'''
 
 ]
